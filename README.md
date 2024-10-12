@@ -23,8 +23,7 @@ This is a rewarding assets web application built with modern frontend technologi
 To get the project running locally, follow these steps:
 
 1. **Clone the repository**:
-   \`\`\`bash
-   git clone https://github.com/your-username/rewarding-assets-app.git
+   \`\`\`
    cd rewarding-assets-app
    \`\`\`
 
