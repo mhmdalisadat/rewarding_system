@@ -1,0 +1,1 @@
+export {default as AdminValid} from './AdminValidation'
