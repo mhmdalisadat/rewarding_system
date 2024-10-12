@@ -5,7 +5,6 @@ This is a rewarding assets web application built with modern frontend technologi
 
 ## Features
 
-- **Asset Management:** Track and manage your assets in an intuitive user interface.
 - **Reward System:** Earn and redeem rewards based on asset performance or participation.
 - **Interactive Animations:** Powered by Framer Motion, the app provides smooth transitions and animations for a delightful user experience.
 - **TypeScript Support:** Ensure code quality and scalability with TypeScript.
@@ -39,27 +38,18 @@ To get the project running locally, follow these steps:
    npm run dev
    \`\`\`
 
-4. Open the app in your browser at `http://localhost:5173/`.
+4. Open the app in your browser at .
 
 ## Usage
 
 Once the app is up and running, users can:
 
-- Create and manage assets.
+- answers some questions and take a assets as gift.
 - Earn rewards based on asset activities.
 - Enjoy a highly interactive UI with smooth animations.
 
 ## Folder Structure
 
-\`\`\`
-src/
- ├── assets/          # Static assets (images, fonts, etc.)
- ├── components/      # Reusable components
- ├── pages/           # App pages and routes
- ├── styles/          # Tailwind CSS configuration and global styles
- ├── types/           # TypeScript types and interfaces
- ├── utils/           # Utility functions
- └── main.tsx         # Entry point for the app
 \`\`\`
 
 ## Scripts
@@ -75,7 +65,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue i
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [isatispooya].
 
 ## Acknowledgements
 
